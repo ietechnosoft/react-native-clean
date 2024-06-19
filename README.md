@@ -59,7 +59,7 @@ You can find the source code and report any issues on the [GitHub repository](ht
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-This project is licensed under the **ISC License** - see the [LICENSE](https://github.com/ietechnosoft/react-native-clean/blob/master/LICENSE) file for details. 
+This project is licensed under the **MTT License** - see the [LICENSE](https://github.com/ietechnosoft/react-native-clean/blob/master/LICENSE) file for details. 
 
 ## Author
 Nikhil Sharma
