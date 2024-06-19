@@ -1,0 +1,28 @@
+{
+  "name": "react-native-clean",
+  "version": "0.0.3",
+  "description": "Clean react native project code before sharing it will reduce to size of folder",
+  "main": "CleanProject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./CleanProject.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ietechnosoft/react-native-clean.git"
+  },
+  "keywords": [
+    "react-native-clean",
+    "react-native-folder-clean",
+    "react-native-project-resize"
+  ],
+  "author": "Nikhil Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ietechnosoft/react-native-clean/issues"
+  },
+  "homepage": "https://github.com/ietechnosoft/react-native-clean#readme",
+  "publishConfig": {
+    "@ietechnosoft:registry": "https://npm.pkg.github.com"
+  }
+}
